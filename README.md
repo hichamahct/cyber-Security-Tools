@@ -115,20 +115,6 @@ python3 ad_enum.py -t 192.168.10.1 -d corp.local -u admin -p 'P@ss123' --output 
   └── AS-REP Roastable     : 1
 ```
 
----
-
-## Structure du projet
-
-```
-ad-arsenal/
-├── ad_enum.py          # Script principal
-├── requirements.txt    # Dépendances Python
-├── README.md           # Documentation
-└── samples/
-    └── output.json     # Exemple de rapport JSON
-```
-
----
 
 ## Avertissement légal
 
