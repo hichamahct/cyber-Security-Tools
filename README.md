@@ -10,7 +10,6 @@
 ```
 
 > Script d'énumération Active Directory via SMB · MSRPC · LDAP  
-> Développé dans le cadre du PFE Red Team — 3D Smart Factory 2025/2026
 
 ---
 
@@ -139,9 +138,3 @@ ad-arsenal/
 
 ---
 
-## Auteur
-
-**Ahcynat Hicham** — Projet de Fin d'Études  
-École Nationale Supérieure des Mines de Rabat (ENSMR)  
-Option : Ingénierie des Données (IDATA)  
-Organisme : 3D Smart Factory — 2025/2026
