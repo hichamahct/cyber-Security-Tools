@@ -64,10 +64,7 @@ def banner():
  ██╔══██║██║  ██║    ██╔══██║██╔══██╗╚════██║██╔══╝  ██║╚██╗██║██╔══██║██║
  ██║  ██║██████╔╝    ██║  ██║██║  ██║███████║███████╗██║ ╚████║██║  ██║███████╗
  ╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-{RESET}
-{YELLOW}        [*] SMB · MSRPC · LDAP Enumerator — Active Directory{RESET}
-{CYAN}        [*] Users · Groups · ACLs · GPOs · Kerberoastable accounts{RESET}
-{BLUE}        [*] Author : Ahcynat Hicham | PFE 3D Smart Factory 2025/2026{RESET}
+
     """)
 
 
