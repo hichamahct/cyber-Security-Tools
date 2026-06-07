@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║           AD Arsenal — Active Directory Enumerator               ║
-║         SMB · MSRPC · LDAP · Users · Groups · ACLs · GPOs       ║
-║                   Author : Ahcynat Hicham                        ║
-║                   Version : 1.0 | 2025/2026                      ║
-╚══════════════════════════════════════════════════════════════════╝
 
 Usage:
     python3 ad_enum.py -t <DC_IP> -d <DOMAIN> -u <USER> -p <PASS>
